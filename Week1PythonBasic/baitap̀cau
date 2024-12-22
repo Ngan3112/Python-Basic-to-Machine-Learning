@@ -1,0 +1,19 @@
+# câu 1
+ten = input("nhập tên của bạn:")
+print("tên của bạn là:",ten)
+# câu 2
+a = float(input("Nhập số thứ nhất: "))
+b = float(input("Nhập số thứ hai: "))
+tong = a + b
+print("Tổng của hai số là:", tong)
+# câu 3
+chu_vi = (tong)*2
+print('chu vi là:',chu_vi)
+#câu 4
+day = float(input("Nhập đáy của hình tam giác:")) 
+cao= float(input("Nhập chiều cao của hình tam giác: "))
+dientich = 0.5 * day * cao
+print("Diện tích của hình tam giác là:", dientich)
+# câu 5
+haimunam= 2 ** 5
+print("2 mũ 5 là:", haimunam)
